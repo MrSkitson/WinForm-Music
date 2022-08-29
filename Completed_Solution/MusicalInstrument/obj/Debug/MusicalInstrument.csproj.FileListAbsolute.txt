@@ -1,0 +1,14 @@
+C:\Users\AlexandraKorbalevich\Documents\Computer science\Alex\Ex_Files_Code_Clinic_C_Sharp\Exercise Files\Ch04\Completed_Solution\MusicalInstrument\bin\Debug\MusicalInstrument.exe.config
+C:\Users\AlexandraKorbalevich\Documents\Computer science\Alex\Ex_Files_Code_Clinic_C_Sharp\Exercise Files\Ch04\Completed_Solution\MusicalInstrument\bin\Debug\MusicalInstrument.exe
+C:\Users\AlexandraKorbalevich\Documents\Computer science\Alex\Ex_Files_Code_Clinic_C_Sharp\Exercise Files\Ch04\Completed_Solution\MusicalInstrument\bin\Debug\MusicalInstrument.pdb
+C:\Users\AlexandraKorbalevich\Documents\Computer science\Alex\Ex_Files_Code_Clinic_C_Sharp\Exercise Files\Ch04\Completed_Solution\MusicalInstrument\bin\Debug\NAudio.dll
+C:\Users\AlexandraKorbalevich\Documents\Computer science\Alex\Ex_Files_Code_Clinic_C_Sharp\Exercise Files\Ch04\Completed_Solution\MusicalInstrument\bin\Debug\NAudio.xml
+C:\Users\AlexandraKorbalevich\Documents\Computer science\Alex\Ex_Files_Code_Clinic_C_Sharp\Exercise Files\Ch04\Completed_Solution\MusicalInstrument\obj\Debug\MusicalInstrument.csproj.AssemblyReference.cache
+C:\Users\AlexandraKorbalevich\Documents\Computer science\Alex\Ex_Files_Code_Clinic_C_Sharp\Exercise Files\Ch04\Completed_Solution\MusicalInstrument\obj\Debug\MusicalInstrument.csproj.SuggestedBindingRedirects.cache
+C:\Users\AlexandraKorbalevich\Documents\Computer science\Alex\Ex_Files_Code_Clinic_C_Sharp\Exercise Files\Ch04\Completed_Solution\MusicalInstrument\obj\Debug\MusicalInstrument.MusicForm.resources
+C:\Users\AlexandraKorbalevich\Documents\Computer science\Alex\Ex_Files_Code_Clinic_C_Sharp\Exercise Files\Ch04\Completed_Solution\MusicalInstrument\obj\Debug\MusicalInstrument.Properties.Resources.resources
+C:\Users\AlexandraKorbalevich\Documents\Computer science\Alex\Ex_Files_Code_Clinic_C_Sharp\Exercise Files\Ch04\Completed_Solution\MusicalInstrument\obj\Debug\MusicalInstrument.csproj.GenerateResource.cache
+C:\Users\AlexandraKorbalevich\Documents\Computer science\Alex\Ex_Files_Code_Clinic_C_Sharp\Exercise Files\Ch04\Completed_Solution\MusicalInstrument\obj\Debug\MusicalInstrument.csproj.CoreCompileInputs.cache
+C:\Users\AlexandraKorbalevich\Documents\Computer science\Alex\Ex_Files_Code_Clinic_C_Sharp\Exercise Files\Ch04\Completed_Solution\MusicalInstrument\obj\Debug\MusicalInstrument.csproj.CopyComplete
+C:\Users\AlexandraKorbalevich\Documents\Computer science\Alex\Ex_Files_Code_Clinic_C_Sharp\Exercise Files\Ch04\Completed_Solution\MusicalInstrument\obj\Debug\MusicalInstrument.exe
+C:\Users\AlexandraKorbalevich\Documents\Computer science\Alex\Ex_Files_Code_Clinic_C_Sharp\Exercise Files\Ch04\Completed_Solution\MusicalInstrument\obj\Debug\MusicalInstrument.pdb
